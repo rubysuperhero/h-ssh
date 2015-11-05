@@ -1,0 +1,5 @@
+# hiro ssh installation config
+# used by h-install
+
+bin:
+  bin/h-ssh
